@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244054316751",
+    "project_id": "smart-dispenser-itera",
+    "storage_bucket": "smart-dispenser-itera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244054316751:android:5b44e51f797d7aeff889ba",
+        "android_client_info": {
+          "package_name": "com.example.sadis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244054316751-m6id7bi5o4utarg7tck31dvfmh8nsrva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC59F5gA7kjU5I4KwzKsAMBSB3yJD-3fxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244054316751-m6id7bi5o4utarg7tck31dvfmh8nsrva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
